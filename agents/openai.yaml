@@ -1,0 +1,4 @@
+interface:
+  display_name: "探域知识卡生成器"
+  short_description: "把商品详情页与卖点整理成证据型客服知识卡"
+  default_prompt: "请根据我提供的商品详情页、SKU 和卖点生成客服知识卡；没有证据的信息不要猜。"
